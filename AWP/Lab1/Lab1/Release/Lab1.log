@@ -1,0 +1,57 @@
+﻿  Source.cpp
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(25,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(34,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(36,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(47,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(60,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(76,15): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(78,18): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(80,25): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(82,31): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  Создание кода
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+  
+  --- Анализ функции: void __cdecl my_vectorize(float * * * *,float * * * *,float * * * *,unsigned int)
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(36) : info C5002: цикл не векторизирован по следующей причине: "1305"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(34) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(33) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(32) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(31) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(30) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  
+  --- Анализ функции: void __cdecl loop(float *,float,float *,int)
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(14) : info C5001: векторизированный цикл
+  
+  --- Анализ функции: void __cdecl init_matrix(float * * * * &,int,int,bool)
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(56) : info C5002: цикл не векторизирован по следующей причине: "500"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(53) : info C5002: цикл не векторизирован по следующей причине: "500"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(50) : info C5002: цикл не векторизирован по следующей причине: "500"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(59) : info C5004: цикл разомкнут
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(59) : info C5002: цикл не векторизирован по следующей причине: "1200"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(59) : info C5002: цикл не векторизирован по следующей причине: "1200"
+  
+  --- Анализ функции: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(752) : info C5002: цикл не векторизирован по следующей причине: "500"
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(765) : info C5002: цикл не векторизирован по следующей причине: "500"
+  
+  --- Анализ функции: void __cdecl auto_vectorize(float * * * *,float * * * *,float * * * *,unsigned int)
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(21) : info C5002: цикл не векторизирован по следующей причине: "1204"
+  
+  --- Анализ функции: main
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(72) : info C5002: цикл не векторизирован по следующей причине: "500"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(74) : info C5002: цикл не векторизирован по следующей причине: "1303"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(25) : info C5002: цикл не векторизирован по следующей причине: "1200"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(24) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(23) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(22) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(21) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(36) : info C5002: цикл не векторизирован по следующей причине: "1305"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(34) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(33) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(32) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(31) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  D:\UNIVER\6 sem\AWP\Lab1\Lab1\Source.cpp(30) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  Создание кода завершено
+  Lab1.vcxproj -> D:\UNIVER\6 sem\AWP\Lab1\Release\Lab1.exe

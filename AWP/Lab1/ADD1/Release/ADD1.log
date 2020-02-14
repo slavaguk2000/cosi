@@ -1,0 +1,55 @@
+﻿  Source.cpp
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(40,26): error C2086: __m128 const_value: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(36): message : см. объявление "const_value"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(41,27): error C2086: __m128 string_value: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(37): message : см. объявление "string_value"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(44,26): error C2086: __m128 const_value: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(36): message : см. объявление "const_value"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(45,27): error C2086: __m128 string_value: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(37): message : см. объявление "string_value"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(48,26): error C2086: __m128 const_value: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(36): message : см. объявление "const_value"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(49,27): error C2086: __m128 string_value: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(37): message : см. объявление "string_value"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(59,27): error C2086: __m128 const_value1: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(56): message : см. объявление "const_value1"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(60,28): error C2086: __m128 string_value1: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(57): message : см. объявление "string_value1"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(62,27): error C2086: __m128 const_value1: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(56): message : см. объявление "const_value1"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(63,28): error C2086: __m128 string_value1: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(57): message : см. объявление "string_value1"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(65,27): error C2086: __m128 const_value1: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(56): message : см. объявление "const_value1"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(66,28): error C2086: __m128 string_value1: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(57): message : см. объявление "string_value1"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(76,27): error C2086: __m128 const_value2: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(73): message : см. объявление "const_value2"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(77,28): error C2086: __m128 string_value2: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(74): message : см. объявление "string_value2"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(79,27): error C2086: __m128 const_value2: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(73): message : см. объявление "const_value2"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(80,28): error C2086: __m128 string_value2: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(74): message : см. объявление "string_value2"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(82,27): error C2086: __m128 const_value2: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(73): message : см. объявление "const_value2"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(83,28): error C2086: __m128 string_value2: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(74): message : см. объявление "string_value2"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(93,27): error C2086: __m128 const_value3: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(90): message : см. объявление "const_value3"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(94,28): error C2086: __m128 string_value3: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(91): message : см. объявление "string_value3"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(96,27): error C2086: __m128 const_value3: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(90): message : см. объявление "const_value3"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(97,28): error C2086: __m128 string_value3: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(91): message : см. объявление "string_value3"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(99,27): error C2086: __m128 const_value3: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(90): message : см. объявление "const_value3"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(100,28): error C2086: __m128 string_value3: переопределение
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(91): message : см. объявление "string_value3"
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(109,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(122,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(133,14): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(135,17): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(137,24): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+D:\UNIVER\6 sem\AWP\Lab1\ADD1\Source.cpp(139,30): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных

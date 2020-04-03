@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41a07c24-f361-45f8-89ab-9c2a8bd351a1" name="Default Changelist" comment="" />
+    <list default="true" id="41a07c24-f361-45f8-89ab-9c2a8bd351a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/ft.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/ft.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +19,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\UNIVER\6 sem\COSI\Lab1_py\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1XiEZzU6IrUJYoa2NrYJo2KO5dD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Include/main.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,13 +87,80 @@
       <workItem from="1581612895181" duration="379000" />
       <workItem from="1581686615652" duration="2399000" />
       <workItem from="1581701070411" duration="8323000" />
+      <workItem from="1581713539302" duration="225000" />
+      <workItem from="1581910750109" duration="7917000" />
+      <workItem from="1581946274266" duration="14986000" />
+      <workItem from="1585759877548" duration="639000" />
+      <workItem from="1585870097008" duration="34000" />
     </task>
+    <task id="LOCAL-00001" summary="dft">
+      <created>1581713727307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581713727307</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Isn't work">
+      <created>1581980707164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581980707164</updated>
+    </task>
+    <task id="LOCAL-00003" summary="library function work">
+      <created>1582001815587</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582001815587</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dft" />
+    <MESSAGE value="Isn't work" />
+    <MESSAGE value="library function work" />
+    <option name="LAST_COMMIT_MESSAGE" value="library function work" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/ft.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Lab1_py$main.coverage" NAME="main Coverage Results" MODIFIED="1581710936028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/Lab1_py$main.coverage" NAME="main Coverage Results" MODIFIED="1582001775457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
   </component>
 </project>
